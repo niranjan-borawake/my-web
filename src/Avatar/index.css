@@ -1,0 +1,20 @@
+  .avatar { 
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    border-radius: 30px;
+    transition: all 2s ease-in-out;
+  }
+  .avatar img {
+    background: url('./myAvatar.png') no-repeat;
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-position-x: center;
+  }
+  .avatar.center{
+    transform: translateY(45vh);
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+  }

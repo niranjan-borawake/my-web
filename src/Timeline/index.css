@@ -1,0 +1,18 @@
+.timeline {
+    width: 90%;
+}
+.vertical-timeline--two-columns .vertical-timeline-element-content .vertical-timeline-element-date {
+    position: static;
+}
+.work-icon .vertical-timeline-element-icon {
+    background-image: url('./briefcase.jpg');
+}
+.study-icon .vertical-timeline-element-icon {
+    background-image: url('./study.png');
+}
+.vertical-timeline-element-icon {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #000;
+}
