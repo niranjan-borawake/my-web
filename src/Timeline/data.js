@@ -1,8 +1,14 @@
 export default [
     {
+        designation: 'Vice President',
+        company: 'Credit Suisse',
+        date: 'January 2021 - Present',
+        iconClass: 'work-icon',
+    },
+    {
         designation: 'Assitant Vice President',
         company: 'Credit Suisse',
-        date: 'September 2017 - Present',
+        date: 'September 2017 - December 2020',
         iconClass: 'work-icon',
     },
     {
